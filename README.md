@@ -1,7 +1,7 @@
 # Hostloc Auto Get Points
 使用 GitHub Actions 自动获取 Hostloc 论坛登陆、访问空间的积分
 
-## 更新说明11
+## 更新说明11vv
 
 本仓库主要功能基本不会再改变。
 
